@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **asarafulsharkernirob1376@gmail.com**
+- 📫 How to reach me **asrafulsharkernirob1376@gmail.com**
 
 - 📄 Know about my experiences [https://asrafulnirob1376.github.io/Nirob-protfolio/](https://asrafulnirob1376.github.io/Nirob-protfolio/)
 
