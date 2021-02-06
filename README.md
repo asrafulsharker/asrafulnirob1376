@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrafulnirob1376&label=Profile%20views&color=0e75b6&style=flat" alt="asrafulnirob1376" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asrafulnirob1376" alt="asrafulnirob1376" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sharker_nirob" target="blank"><img src="https://img.shields.io/twitter/follow/sharker_nirob?logo=twitter&style=for-the-badge" alt="sharker_nirob" /></a> </p>
 
@@ -19,20 +18,7 @@
 
 - ⚡ Fun fact **I think I am not a bad person**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/asrafulnirob1376" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="asrafulnirob1376" height="30" width="40" /></a>
-<a href="https://twitter.com/sharker_nirob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sharker_nirob" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asraful-sharker-nirob-0b21b71a5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="asraful-sharker-nirob-0b21b71a5" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/md-asraful-sharker-nirob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="md-asraful-sharker-nirob" height="30" width="40" /></a>
-<a href="https://fb.com/nirob.toxic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nirob.toxic" height="30" width="40" /></a>
-<a href="https://instagram.com/nirobasraful" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nirobasraful" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/asaraful15_3179" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="asaraful15_3179" height="30" width="40" /></a>
-</p>
 
 ### 🛠 &nbsp;Tech Stack
 
