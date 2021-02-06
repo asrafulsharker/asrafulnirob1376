@@ -70,7 +70,8 @@
 
 <p align="center">
 <a href="https://github.com/asrafulnirob1376">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=asrafulnirob1376show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/apiusername=asrafulnirob1376show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=asrafulnirob1376&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asrafulnirob1376&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
