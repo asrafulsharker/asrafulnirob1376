@@ -59,18 +59,12 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asrafulnirob1376&show_icons=true&locale=en&layout=compact" alt="asrafulnirob1376" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asrafulnirob1376&show_icons=true&locale=en" alt="asrafulnirob1376" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asrafulnirob1376&" alt="asrafulnirob1376" /></p>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/asrafulnirob1376">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/apiusername=asrafulnirob1376show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=asrafulnirob1376&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asrafulnirob1376&layout=compact&langs_count=8&theme=algolia"/>
 </a>
