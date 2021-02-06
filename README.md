@@ -76,10 +76,10 @@
 
 <p align="center">
 <a href="https://asnirob.netlify.app/"><img src="https://img.shields.io/badge/-asnirob.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://linkedin.com/in/asraful-sharker-nirob-0b21b71a5"><img src="https://img.shields.io/badge/-Asraful%20Sharker%20Nirob-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:asrafulsharkernirob1376@gmail.com"><img src="https://img.shields.io/badge/-asrafulsharkernirob1376@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/nirobasraful"><img src="https://img.shields.io/badge/-@nirobasraful-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/nirob.toxic"><img src="https://img.shields.io/badge/-@nirob.toxic-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/asrafulsharkernirob1376"><img src="https://img.shields.io/badge/-@asrafulsharkernirob1376-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/nirob1"><img src="https://img.shields.io/badge/-@nirob1-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
