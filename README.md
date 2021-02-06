@@ -6,12 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/sharker_nirob" target="blank"><img src="https://img.shields.io/twitter/follow/sharker_nirob?logo=twitter&style=for-the-badge" alt="sharker_nirob" /></a> </p>
 
+
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at asrafulsharkernirob1376@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://####) for more details about me. I'm open to feedback and suggestions!
 ⚡ Fun fact **I think I am not a bad person**
 
@@ -65,4 +66,5 @@
 <a href="https://facebook.com/nirob.toxic"><img src="https://img.shields.io/badge/-@nirob.toxic-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.ca/asrafulsharkernirob1376"><img src="https://img.shields.io/badge/-@asrafulsharkernirob1376-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/nirob1"><img src="https://img.shields.io/badge/-@nirob1-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+   <a href="https://www.hackerrank.com/asaraful15_3179"><img src="https://img.shields.io/badge/-@asaraful15_3179-1769FF?style=flat&logo=HackerRank&logoColor=white"/></a>
 </p>
