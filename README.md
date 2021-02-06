@@ -6,19 +6,16 @@
 
 <p align="left"> <a href="https://twitter.com/sharker_nirob" target="blank"><img src="https://img.shields.io/twitter/follow/sharker_nirob?logo=twitter&style=for-the-badge" alt="sharker_nirob" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/asrafulnirob1376](https://github.com/asrafulnirob1376)
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://####) for more details about me. I'm open to feedback and suggestions!
+⚡ Fun fact **I think I am not a bad person**
 
-- 📝 I regularly write articles on [https://asrafulnirob1376.github.io/Nirob-protfolio/](https://asrafulnirob1376.github.io/Nirob-protfolio/)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **asarafulsharkernirob1376@gmail.com**
-
-- 📄 Know about my experiences [https://asrafulnirob1376.github.io/Nirob-protfolio/](https://asrafulnirob1376.github.io/Nirob-protfolio/)
-
-- ⚡ Fun fact **I think I am not a bad person**
-
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
